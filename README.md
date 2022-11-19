@@ -1,24 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**PrayanshParmar/PrayanshParmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-####- 🔭 I’m currently working on Offensive Security as a RED TEAMER. 
-####- 🌱 I’m currently learning INCIDENCE RESPONSE, EXPLOIT DEVELOPMENT, CLOUD COMPUTING, OSINT and sharping my CODING SKILLS.
-####- 👯 I’m looking to collaborate on EXPLOIT DEVELOPMENT, COMMAND AND CONTROL, INCIDENCE RESPONSE, OSINT and RED TEAMING.
-####- 📫 How to reach me:
-####- https://www.linkedin.com/in/prayansh-parmar
-####- parmarprayansh2@gmail.com
-####- ⚡ Fun fact: doing coding since 2019. 
+####   🔭 I’m currently working on *Offensive Security* as a *RED TEAMER*. 
+####   🌱 I’m currently learning *Incidence Response*, *Exploit Develpoment*, *Cloud Computing*, *OSINT* and sharpening my *Coding Skills*.
+####   👯 I’m looking to collaborate on *VAPT*, *Exploit Development*, *Command and Control*, *Incidence Response*, *OSINT* and *Red Teaming*.
+####   📫 How to reach me:
+####   --> Email: *https://www.linkedin.com/in/prayansh-parmar*
+####   --> LinkedIn: *parmarprayansh2@gmail.com*
+####   --> Twitter: *https://twitter.com/prayansh_parmar* 
+####  ⚡ Fun fact: doing coding since 2019. 
