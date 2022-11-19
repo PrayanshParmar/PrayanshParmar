@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+####- 🔭 I’m currently working on Offensive Security as a RED TEAMER. 
+####- 🌱 I’m currently learning INCIDENCE RESPONSE, EXPLOIT DEVELOPMENT, CLOUD COMPUTING, OSINT and sharping my CODING SKILLS.
+####- 👯 I’m looking to collaborate on EXPLOIT DEVELOPMENT, COMMAND AND CONTROL, INCIDENCE RESPONSE, OSINT and RED TEAMING.
+####- 📫 How to reach me:
+####- https://www.linkedin.com/in/prayansh-parmar
+####- parmarprayansh2@gmail.com
+####- ⚡ Fun fact: doing coding since 2019. 
