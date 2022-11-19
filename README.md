@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+####   Myself *Prayansh Parmar*.
+####   🎯 An striving and keen novice dedicated to Cyber Security. Trying to contribute something to community.
 ####   🔭 I’m currently working on *Offensive Security* as a *RED TEAMER*. 
 ####   🌱 I’m currently learning *Incidence Response*, *Exploit Develpoment*, *Cloud Computing*, *OSINT* and sharpening my *Coding Skills*.
 ####   👯 I’m looking to collaborate on *VAPT*, *Exploit Development*, *Command and Control*, *Incidence Response*, *OSINT* and *Red Teaming*.
