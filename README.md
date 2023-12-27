@@ -1,9 +1,8 @@
-<h2> Hi there 👋 </h2> 
+<h2> Hello there! 👋 I'm Prayansh Parmar </h2> 
 <p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br> 
- I'm striving and keen novice dedicated to Cyber Security. Trying to contribute something to community.<br> 
- I’m currently looking for an internship.<br> 
- I’m currently learning Incidence Response, Exploit Develpoment, Cloud Computing, OSINT and sharpening my Coding Skills.<br> 
- I’m looking to collaborate on VAPT, Exploit Development, Command and Control, Incidence Response, OSINT and Red Teaming.<br> 
+A dynamic Full Stack Web Developer with a knack for crafting immersive digital experiences. From building responsive interfaces to diving into the intricacies of server-side logic, I bring a holistic approach to web development. With a strong command of Cyber Security principles, I prioritize to develope safe digital assets by following security best practices.
+
+I am currently on the lookout for new opportunities to leverage my skills and contribute to innovative projects. If you're in search of a passionate Full Stack Web Developer with a keen interest in Cyber Security.
 </em></p>
 <h2>Social Media</h2>
 
