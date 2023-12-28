@@ -5,14 +5,13 @@
 <h1 align="center">Hello there! 👋, I'm Prayansh Parmar</h1>
 <h3 align="center">A dynamic Full Stack Web Developer and Security Researcher.</h3>
 
-- 🌱 I’m currently brushing my skills in **Nextjs, GraphQl**.
-
-- 💬 Ask me about anything, I am happy to help.
-
-- ⚡ Available for Freelance projects/internship opportunities.
-
-- 📫 How to reach me: **parmarprayansh2@gmail.com**.
-- 👨‍💻 All of my projects are available at [https://github.com/PrayanshParmar](https://github.com/PrayanshParmar).
+ <ul align="center">
+   <li>🌱 I’m currently brushing my skills in **Nextjs, GraphQl**.</li>
+   <li>💬 Ask me about anything, I am happy to help.</li>
+   <li>⚡ Available for Freelance projects/internship opportunities.</li>
+   <li>📫 How to reach me: **parmarprayansh2@gmail.com**.</li>
+   <li>👨‍💻 All of my projects are available at [https://github.com/PrayanshParmar](https://github.com/PrayanshParmar).</li>
+ </ul>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
