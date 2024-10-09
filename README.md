@@ -103,4 +103,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayanshparmar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="prayanshparmar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prayanshparmar&show_icons=true&theme=tokyonight&locale=en" alt="prayanshparmar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prayanshparmar&show_icons=true&theme=tokyonight&locale=en" alt="prayanshparmar" /></p> 
+
+[![An image of @prayanshparmar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prayanshparmar)](https://holopin.io/@prayanshparmar)
